@@ -51,7 +51,7 @@ e1 1as :house:
 https://github.com/abstractpoint/geekshare-london
 [Street view](https://goo.gl/maps/Na7Gb7xe9fD2)
 
-Room 1 https://github.com/abstractpoint
+Room 1 https://github.com/abstractpoint  
 Room 2 [other]  
 Room 3 Available
 
