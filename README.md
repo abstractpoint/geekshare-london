@@ -49,7 +49,7 @@ Find your next housemate in London via Github!
 
 e1 1as :house:
 https://github.com/abstractpoint/geekshare-london
-[Street view](https://goo.gl/maps/Na7Gb7xe9fD2)
+:earth_americas: [Street view](https://goo.gl/maps/Na7Gb7xe9fD2)
 
 Room 1 https://github.com/abstractpoint  
 Room 2 [other]  
