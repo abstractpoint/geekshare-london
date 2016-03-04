@@ -36,3 +36,18 @@ Find your next housemate in London via Github!
                                                     \         /            |         |                                
                                                     /__      /             |  /\      |                               
                                                        \_   /               \/  \____/                                
+
+
+1. Simply fork this repository, 
+2. add your postcode with your github fork link 
+3. add price per month (including bills) + google street view link
+4. submit pull request
+5. everyone will be notified of change
+6. your potential housemates will submit a pull request directly to you!
+ 
+##Here are all the available house/flat shares
+
+e1 1as - https://github.com/abstractpoint/geekshare-london
+e1 1as
+e1 1as
+e1 1as
